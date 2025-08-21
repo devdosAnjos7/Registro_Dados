@@ -1,0 +1,3 @@
+Nome: Pedro  Assis, Endereço: Rua 2, Data de Nascimento: 2006-04-04, Sexo: Masculino, Telefone: 17 98803-2020, Email: pedroassis@gmail.com
+Nome: Calebe Locatelli, Endereço: Rua 1, Data de Nascimento: 2006-07-20, Sexo: Masculino, Telefone: 17 99114-2302, Email: calebeocatelli13@gmail.com
+Nome: Rafael Rodrigues, Endereço: Rua 3, Data de Nascimento: 2006-08-03, Sexo: Masculino, Telefone: 1729323450, Email: RafaelRodrigues@gmail.com
