@@ -42,6 +42,7 @@ if salvar_dados:
     st.success('Dados salvos com sucesso!')
 # Instruções para rodar o app
 #Para rodar este app, execute o seguinte comando no terminal
-# streamlit run app.py
+# streamlit run app.py,ou, pyhton -m streamlit run app.py
 # Certifique-se de que o Streamlit está instalado no seu ambiente Python.
 # Você pode instalar o Streamlit usando o comando: pip install streamlit
+
